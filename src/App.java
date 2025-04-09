@@ -12,5 +12,8 @@ public class App {
 
         int digitos = deber.sumaDeDigitos(6519);
         System.out.println(digitos);
+
+        int fibonacci = deber.fibonaci(9);
+        System.out.println(fibonacci);
     }
 }
